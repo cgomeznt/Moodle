@@ -5,4 +5,4 @@
 * [Respaldo en Sitio](guias/hacer_respaldo.rst)
 * [Restauracion en Sitio](guias/restauracion_sitio.rst)
 * [Recuperar clave admin](guias/recuperarclaveadmin.rst)
-* [Como instalar plugins](guias/recuperarclaveadmin.rst)
+* [Como instalar plugins](guias/addplugin.rst)
