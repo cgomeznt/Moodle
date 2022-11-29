@@ -33,6 +33,9 @@
 * INSERTAR AUDIOS Y VÍDEOS EN UN CURSO
 * CREACIÓN DE UN FORO
 * CREAR UNA TAREA
+
+
+https://eduki.club/course/creando-cursos-con-moodle/?gclid=Cj0KCQiA-JacBhC0ARIsAIxybyPO58a2Nm62nsuY7XbpIbzSU7pJBp274dlvFEpca-gBORG1AQ0QM2kaAgN7EALw_wcB
 * CREAR UN CUESTIONARIO
 * CALIFICACIONES
 
