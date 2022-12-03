@@ -61,7 +61,7 @@ Si instalamos Postgresql::
 
 	# dnf install php-pgsql
 	
-Necesario realizar un ajuse en el archivo php.ini:
+Necesario realizar un ajuse en el archivo php.ini::
 
 	# vi /etc/php.ini
 	
@@ -139,7 +139,7 @@ Preparamos el Apache
 
 Creamos un Virtual Server::
 
-# vi /etc/httpd/conf.d/e-deus.cf-SSL.conf
+	# vi /etc/httpd/conf.d/e-deus.cf-SSL.conf
 
 	<VirtualHost *:443>
 		Header always set Strict-Transport-Security "max-age=63072000; includeSubdomains; preload"
